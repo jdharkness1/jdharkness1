@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jdharkness1
-- 👀 I’m interested in becoming a full stack developer. 
+- 👀 I’m interested in integrating technology in education. 
 - 🌱 I’m currently learning how to code.
 - 💞️ I’m looking to collaborate on any assigned projects.
 - 📫 How to reach me jdharkness@gmail.com
